@@ -1,2 +1,2 @@
-# Senior-Design
-Eric Downes/Chris Sigmon Senior Design project
+# ECE449
+Senior Design Repository
